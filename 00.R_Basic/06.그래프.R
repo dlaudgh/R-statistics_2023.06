@@ -23,14 +23,3 @@ pie(x, init.angle=90,
 x = c('A','B','C','D')
 y = c(3, 4, 6, 7)
 barplot(y, names.arg=x, col='orange')
-
-
-
-
-
-
-
-
-
-
-
