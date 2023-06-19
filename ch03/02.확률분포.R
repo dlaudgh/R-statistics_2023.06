@@ -106,4 +106,3 @@ s.z <- dnorm(s, mean=0, sd=1)
 s <- c(-1.96, s, 1.96)
 s.z <- c(0, s.z, 0)
 polygon(s, s.z, col="red", density=10, angle=305)
-
